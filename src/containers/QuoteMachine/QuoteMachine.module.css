@@ -1,0 +1,48 @@
+.background {
+    height: 100vh;
+    background-color: black;
+    display:flex;
+    align-items: center;
+    transition: 1s;
+}
+
+.container {
+    width: 600px;
+    margin: 0px auto;
+    background-color: white;
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    transition: 1s;
+    position:relative;
+}
+
+.quotesection {
+    font-family: 'Anton', sans-serif;
+}
+
+.quotestyle {
+    font-size: 2rem;
+}
+
+.author {
+    font-size: 1rem;
+    margin: 0px 0px 40px 0px;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.buttonsection {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+    transition: 1s;
+}
+
+.iconsection {
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    transition: 1s;
+}
+
