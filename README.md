@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description 
+This is a React random quote generator app that is connected to a firebase backend. Created ~ june 2020
+
 ## Available Scripts
 
 In the project directory, you can run:
